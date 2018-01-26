@@ -181,7 +181,7 @@ header.masthead {
 }
 
 #about {
-    padding-top: 10rem;
+    padding-top: 15rem;
     padding-bottom: calc(10rem - 56px);
     background: linear-gradient(to bottom, rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(../image/img/img/laugh.jpg) no-repeat center center fixed;
     background-position: center center;
@@ -313,7 +313,8 @@ header.masthead p {
 
 .btn-primary {
     background-color: #f05f40;
-    border-color: #f05f40
+    border-color: #f05f40;
+    box-shadow: 0 0 0 .2rem rgba(240, 95, 64, .5)!important
 }
 
 .btn-primary:active,
@@ -326,5 +327,4 @@ header.masthead p {
 .btn-primary:active,
 .btn-primary:focus {
     box-shadow: 0 0 0 .2rem rgba(240, 95, 64, .5)!important
-}   box-shadow: 0 0 0 .2rem rgba(240, 95, 64, .5)!important
 }
