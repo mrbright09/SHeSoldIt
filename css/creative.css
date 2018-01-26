@@ -38,7 +38,7 @@ h6 {
     font-family: 'Open Sans', 'Helvetica Neue', Arial, sans-serif;
 }
 
-.bg-primary {
+.bg-primary .navbar-toggler-icon {
     background-color: #F05F40 !important;
 }
 
