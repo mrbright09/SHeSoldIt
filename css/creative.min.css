@@ -183,7 +183,7 @@ header.masthead {
 #about {
     padding-top: 15rem;
     padding-bottom: calc(10rem - 56px);
-    background: linear-gradient(to bottom, rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(../image/img/img/laugh.jpg) no-repeat center center fixed;
+    background: linear-gradient(to bottom, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.7)), url(../image/img/img/laugh.jpg) no-repeat center center fixed;
     background-position: center center;
     -webkit-background-size: cover;
     -moz-background-size: cover;
